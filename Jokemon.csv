@@ -1,0 +1,16 @@
+id,name,type1,type2,hitpoints,attack,defense,specialattack,specialdefense,speed
+0,Mousicate,Normal,,55,81,60,50,70,97
+1,Charilard,Fire,Flying,78,84,78,109,85,100
+2,Blastoy,Water,,79,83,100,85,105,78
+3,Raiyou,Electric,,60,90,55,90,80,110
+4,Venupores,Grass,Poison,80,82,83,100,100,80
+5,Dewlong,Water,Ice,90,70,80,70,95,70
+6,Maloser,Fighting,,90,130,80,65,85,55
+7,Nidoprince,Poison,Ground,81,102,77,85,75,85
+8,Sandthrash,Ground,,75,100,110,45,55,65
+9,Doveot,Normal,Flying,83,80,75,70,70,101
+10,Alakabam,Psychic,,55,50,45,135,95,120
+11,Beehorn,Bug,Poison,65,90,40,45,80,75
+12,Gotem,Rock,Ground,80,120,130,55,65,45
+13,Genbar,Ghost,Poison,60,65,60,130,75,110
+14,Dragonmite,Dragon,Flying,91,134,95,100,100,80
