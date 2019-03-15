@@ -13,3 +13,5 @@ Does not use classes due to this program being made before Object Orientated Pro
 **Running**
 
 To run the game, simply open any of the .pde files in processing and place the .csv files into a 'data' subdirectory. You can use your own sprites by placing them in a 'sprites' directory.
+
+No copyright infringement intended.
